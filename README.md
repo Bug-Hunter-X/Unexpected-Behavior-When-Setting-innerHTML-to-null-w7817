@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to the use of innerHTML. The bug occurs when attempting to clear the content of a div element by setting its innerHTML property to null.  This results in unexpected behavior because the div element still retains some properties. The solution showcases the correct way to clear the content of an HTML element.
